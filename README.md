@@ -54,6 +54,6 @@ Recipe Card, API Fetching, Home    - SIVARAMAN S <br>
 https://user-images.githubusercontent.com/77092865/168807015-e1b13602-7c6b-465b-941a-085780a0a2ed.mp4
 
 <br><br><br>
-### Article
+### Article on product development
 
 [Yumm-Recipes.docx](https://github.com/SIVARAMAN2002/Recipe-App/files/8708229/Yumm-Recipes.docx)
