@@ -4,7 +4,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 import Home from "./components/Home";
 import Results from "./components/Results";
-import {usestate} from "react-native";
+import {usestate,ScrollView} from "react-native";
 
 const Stack = createNativeStackNavigator();
 
