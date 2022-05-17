@@ -32,6 +32,7 @@ Recipe Card, API Fetching, Home    - SIVARAMAN S <br>
 <img src="/Screenshots/ac3.jpeg" width="300">
 <br><br><br>
 
+
 ##### We have used carousel for the swipe animation to go through a number of recipes.
 <br><br>
 <img src="/Screenshots/ac4.jpeg" width="300">
@@ -55,4 +56,4 @@ https://user-images.githubusercontent.com/77092865/168807015-e1b13602-7c6b-465b-
 <br><br><br>
 ### Article
 
-
+[Yumm-Recipes.docx](https://github.com/SIVARAMAN2002/Recipe-App/files/8708229/Yumm-Recipes.docx)
